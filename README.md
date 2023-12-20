@@ -26,13 +26,14 @@ The project includes the following features:
    - Stores user enrollment data in a database.
    - Provides an Entity-Relationship (ER) diagram to illustrate the database design.
 
-   ![ER Diagram](link-to-er-diagram)
+   ![ER Diagram]
+   ![YogaClass_Website drawio](https://github.com/thakurRashmi/YogaClass_Website/assets/76115061/ada16028-f373-4ff8-bb38-c06aaec416bf)
 
-3. **Payment Handling:**
+4. **Payment Handling:**
    - Assumes the existence of a mock function named `CompletePayment()`.
    - `CompletePayment()` accepts user details and payment information, simulating the payment process. This function is a placeholder, and its actual implementation is not required.
 
-4. **Response to Front-End:**
+5. **Response to Front-End:**
    - Returns a response to the front-end based on the payment response from the `CompletePayment()` function.
 
 ## Getting Started
